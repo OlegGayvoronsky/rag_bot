@@ -5,6 +5,6 @@
 <br>В качестве модели cross-encoder используется <a href="https://huggingface.co/DiTy/cross-encoder-russian-msmarco">DiTy/cross-encoder-russian-msmarco</a>
 <br>В качестве генеративной модели используется <a href="https://huggingface.co/IlyaGusev/saiga_llama3_8b">IlyaGusev/saiga_llama3_8b</a>
 <br>Чат для работы с ботом был написан с использованием фреймворка <a href="https://www.gradio.app/guides/quickstart">gradio</a>
-<br>Весь проект развертывается при помощи докера
-Результат работы проекта на изображении
+<br>Весь проект развертывается при помощи докера.
+<br>Результат работы проекта на изображении
 <img src="https://github.com/OlegGayvoronsky/rag_bot/blob/main/images/photo_2.jpg">
