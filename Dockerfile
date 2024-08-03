@@ -25,4 +25,4 @@ COPY ./app/ /code
 EXPOSE 7860
 ENV GRADIO_SERVER_NAME="0.0.0.0"
 
-CMD ["python", "main.py"]
+CMD ["python3.11", "main.py"]
